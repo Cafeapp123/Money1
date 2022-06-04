@@ -2,7 +2,8 @@
   {
     "img": "https://static.namava.ir/Content/Upload/Images/972d56c3-ebbf-4006-b742-9fd9e72ee7b4.jpg?anchor\u003dmiddlecenter\u0026crop\u003dauto\u0026scale\u003dboth\u0026w\u003d200\u0026h\u003d134",
     "name": "مهمونی - فصل ۱ قسمت ۱",
-    "name1": "آقای طهماسب که به خانه جدید نقل مکان کرده، با عروسک‌های تازه‌ای رو‌به‌رو می‌شود و ..."
+    "name1": "آقای طهماسب که به خانه جدید نقل مکان کرده، با عروسک‌های تازه‌ای رو‌به‌رو می‌شود و ...",
+    "web": "https://persian4.asset.aparat.com/aparat-video/ea09bf977c2b8ef684fde5b4e916c87e43613580-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImU5MzI1ODE2OTI1Y2FiZjYwMjdlNjRkZWVmNjRlNzUwIiwiZXhwIjoxNjU0MzUzODI5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.QX36CtvRdspey1MW6zJf8xDvvj3vOIj4m9M5aLnC-bs"
   },
   {
     "img": "https://static.namava.ir/Content/Upload/Images/17fdef7f-99a2-4308-9bf0-d43110ec3bab.jpg?anchor\u003dmiddlecenter\u0026crop\u003dauto\u0026scale\u003dboth\u0026w\u003d200\u0026h\u003d134",
